@@ -33,3 +33,11 @@ body {
 .article, .sidebar {
     margin-bottom: 2rem;
 }
+
+.header .blog-title, .header .title-link {
+    color: #fff;
+}
+
+.header .title-link:hover {
+    color: #fff;
+}
